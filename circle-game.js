@@ -111,7 +111,7 @@ var cg = {
     init: function() {
         cg.autosize()
         this.z = new Image()
-        this.z.src = 'zazub.png'
+        this.z.src = 'https://cdn.jsdelivr.net/gh/234sd4w5w45wers5tr-645758574456456/436874@main/zazub.png'
 
         this.canvas = $('canvas')
         this.canvas.attr({
